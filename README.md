@@ -1,4 +1,4 @@
-![image-20220922160858276](C:\Users\vip phone\AppData\Roaming\Typora\typora-user-images\image-20220922160858276.png)
+![image](https://user-images.githubusercontent.com/32298957/191796350-9c134107-b71d-4b40-aca8-61387e698b99.png)
 
 For this task, we will go through a simple **Fruit Dataset** and use **Pandas** to display the different Fruit types (apple, mandarin, orange, and lemon) in our dataset.
 
@@ -17,6 +17,8 @@ For this task, we will go through a simple **Fruit Dataset** and use **Pandas** 
    > 💡**Tip**
    > Use the `.` operator after every statement in your Python code to display the available methods you can use.
    
+![image](https://user-images.githubusercontent.com/32298957/191797552-a03bd59d-2a62-460a-8d85-9a3cf0aa9f04.png)
+
 
 ## (Bonus) Extra Requirements 🤼‍
 
